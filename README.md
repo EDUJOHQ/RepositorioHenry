@@ -1,1 +1,1 @@
-Readme creado para poder subir el repositorio con los pasos indicados en la homework del M02 
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi escritorio local
